@@ -1,5 +1,5 @@
 # import numpy and tensorflow quantum
-import numpy as np
+import numpy as np 
 import tensorflow_quantum as tfq
 
 # define a function to convert a classical image to a quantum image
