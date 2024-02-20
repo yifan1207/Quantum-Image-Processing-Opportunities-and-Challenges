@@ -1,6 +1,6 @@
 # Import the necessary modules
 import tensorflow as tf
-from tensorflow.keras import layers
+from tensorflow.keras import layers 
 
 # Define the input shape
 input_shape = (n, n, 64) # n is the number of pixels in one dimension of the image
