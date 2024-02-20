@@ -1,6 +1,6 @@
 # Import the PyTorch library
 import torch
-import torch.nn as nn
+import torch.nn as nn 
 import torch.nn.functional as F
 
 # Define the input size and the number of filters
