@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-# Assuming the input is a 4D tensor of shape (batch_size, channels, height, width)
+# Assuming the input is a 4D tensor of shape (batch _size, channels, height, width)
 # and the output of the convolutional layer 2 is stored in a variable x
 x = F.relu(self.conv2(x)) # apply convolutional layer 2
 
